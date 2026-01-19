@@ -20,5 +20,6 @@ function formatCurrencyBRL(value) {
     currency: "BRL",
   });
 
+  // Retorna o valor formatado.
   return value;
 }
